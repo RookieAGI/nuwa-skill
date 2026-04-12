@@ -26,6 +26,10 @@
 
 [English](README_EN.md) · [日本語](README_JA.md) · [한국어](README_KO.md) · [Español](README_ES.md)
 
+<br>
+
+[![Star History Chart](https://api.star-history.com/svg?repos=alchaincyf/nuwa-skill&type=Date)](https://star-history.com/#alchaincyf/nuwa-skill&Date)
+
 </div>
 
 ---
@@ -240,16 +244,6 @@ nuwa-skill/
 
 ---
 
-## Star History
-
-<div align="center">
-
-[![Star History Chart](https://api.star-history.com/svg?repos=alchaincyf/nuwa-skill&type=Date)](https://star-history.com/#alchaincyf/nuwa-skill&Date)
-
-</div>
-
----
-
 ## 关于作者
 
 **花叔 Huashu** — AI Native Coder，独立开发者，代表作：小猫补光灯（AppStore 付费榜 Top1）
@@ -258,9 +252,9 @@ nuwa-skill/
 |------|------|
 | 🌐 官网 | [bookai.top](https://bookai.top) · [huasheng.ai](https://www.huasheng.ai) |
 | 𝕏 Twitter | [@AlchainHust](https://x.com/AlchainHust) |
-| 📺 B站 | [AI进化论-花生](https://space.bilibili.com/14097567) |
+| 📺 B站 | [花叔](https://space.bilibili.com/14097567) |
 | ▶️ YouTube | [@Alchain](https://www.youtube.com/@Alchain) |
-| 📕 小红书 | [花生](https://www.xiaohongshu.com/user/profile/5abc6f17e8ac2b109179dfdf) |
+| 📕 小红书 | [花叔](https://www.xiaohongshu.com/user/profile/5abc6f17e8ac2b109179dfdf) |
 | 💬 公众号 | 微信搜「花叔」或扫码关注 ↓ |
 
 <img src="wechat-qrcode.jpg" alt="公众号二维码" width="360">
