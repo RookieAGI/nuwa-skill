@@ -2,6 +2,12 @@
 
 # 女娲.skill
 
+<p align="center">
+  <img src="assets/hero.gif" alt="nuwa-skill Hero Animation" />
+  <br/>
+  <sub>动画由 <a href="https://github.com/alchaincyf/huashu-design">huashu-design</a> skill 制作</sub>
+</p>
+
 > *「你想蒸馏的下一个员工，何必是同事」*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
@@ -182,6 +188,26 @@ npx skills add alchaincyf/nuwa-skill
 人物Skill蒸馏一个人的思维方式；主题Skill蒸馏一个领域的方法论。每个仓库都包含完整的调研数据和效果示例对话。
 
 想蒸馏不在列表里的人或主题？安装女娲，说「蒸馏一个XXX」就行。
+
+---
+
+## 达尔文.skill：让所有Skill持续进化
+
+<div align="center">
+
+<a href="https://github.com/alchaincyf/darwin-skill">
+<img src="https://raw.githubusercontent.com/alchaincyf/darwin-skill/master/assets/banner.svg" alt="达尔文.skill" width="600">
+</a>
+
+</div>
+
+女娲造Skill，**[达尔文](https://github.com/alchaincyf/darwin-skill)** 让Skill进化。
+
+受 Karpathy autoresearch 启发，达尔文.skill 用自主实验循环批量优化所有Skill：8维度评估、棘轮机制（只保留改进，自动回滚退步）、独立子agent评分。女娲的 Phase 5 双Agent精炼就内置了达尔文的评估体系，这也是女娲生成的Skill质量高的原因之一。
+
+```bash
+npx skills add alchaincyf/darwin-skill
+```
 
 ---
 
