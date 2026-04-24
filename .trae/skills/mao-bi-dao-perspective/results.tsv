@@ -1,0 +1,5 @@
+timestamp	commit	skill	old_score	new_score	status	dimension	note	eval_mode
+2026-04-23T10:00	baseline	mao-bi-dao-perspective	-	62.1	baseline	-	初始评估	dry_run
+2026-04-23T10:15	round1	mao-bi-dao-perspective	62.1	76.1	keep	整体架构	10模型→5模型,19启发式→8分组	dry_run
+2026-04-23T10:30	round2	mao-bi-dao-perspective	76.1	81.5	keep	检查点+工作流	路径C充实+选题确认检查点	dry_run
+2026-04-23T10:40	round3	mao-bi-dao-perspective	81.5	82.75	keep	指令具体性	表达DNA正误示例	dry_run
